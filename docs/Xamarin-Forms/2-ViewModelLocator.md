@@ -14,4 +14,4 @@ changing resolver
 
 custom registrations
 
-maybe link to primary ViewModelLocator topic so we don't repeat content, and only include the namesapce and attached property info in this topic?
+maybe link to primary ViewModelLocator topic so we don't repeat content, and only include the namespace and attached property info in this topic?
